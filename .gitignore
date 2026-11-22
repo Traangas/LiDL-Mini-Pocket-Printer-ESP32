@@ -1,0 +1,14 @@
+# Build output
+.pio/
+
+# Python virtual environment
+.venv/
+__pycache__/
+
+# Third-party reference code (clone with: git clone https://github.com/Dejniel/TiMini-Print.git ref/TiMini-Print)
+ref/
+
+# Test logs
+logs/
+
+.DS_Store
